@@ -1,0 +1,29 @@
+body{
+	background: green;
+}
+
+.hr1{
+	background-color: red;
+	height: 10px;
+	width: 60%;
+	border-radius: 10px;
+	border-color: green;
+}
+
+.hr2{
+	background-color: blue;
+	height: 10px;
+	width: 90%;
+	border-radius: 3px;
+	border-color: green;
+}
+
+.hr3{
+	background-color: orange;
+	height: 10px;
+	width: 30%;
+	border-radius: 2px;
+	border-color: green;
+}
+
+<!-- Autor Stanislav Bondar 1P -->
